@@ -18,6 +18,9 @@
 </div>
 
 
+  <p align="center">
+  <img src="https://profile-counter.glitch.me/yumanuralfath/count.svg">
+</p>
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
