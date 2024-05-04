@@ -2,10 +2,6 @@
 <div align="center">
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg?style=plastic)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa) <a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=yumanuralfath)](https://github.com/yumanuralfath)</a> 
-    
-   
 </div>
 
 
@@ -35,6 +31,7 @@
   </ul>
 </div>
 
+  [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg?style=social)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 
 <!--Intro start-->
 - 🔭 I’m currently learning on **React, NextJS, Nodejs, PostgreSql**
