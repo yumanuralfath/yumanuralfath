@@ -1,11 +1,15 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+🌐 [dev site](https://yumana.my.id) 
+---
+
+[![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Yuma Nur Alfatht</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Yuma Nur Alfath</h1></summary>
   </ul>
 </div>
 
@@ -111,9 +115,6 @@
   
 </div>
 
-<div align="center">
-[![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
-</div>
 
 
 <!--horizontal divider(gradiant)-->
