@@ -1,13 +1,19 @@
-
+<h1 align='center' style="color: red;">Welcome to My Profile Adventurer✨</h1>
+<div align="center">
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg?style=plastic)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa) <a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=yumanuralfath)](https://github.com/yumanuralfath)</a> 
+    
+   
+</div>
+
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Yuma Nur Alfath</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Yuma </h1></summary>
   </ul>
 </div>
 
