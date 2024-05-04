@@ -24,7 +24,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Junior FullStack Web Developer</h2></summary>
+    <summary><h1 style="display: inline-block">Junior FullStack Web Developer</h1></summary>
   </ul>
 </div>
 
