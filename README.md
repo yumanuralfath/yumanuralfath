@@ -1,10 +1,10 @@
-<h1 align='center' style="color: red;">Welcome to My Profile Adventurer✨</h1>
+<div align='center'>
+<summary><h1 style="color: red;">Welcome to My Profile Adventurer✨</h1></summary>
+</div>
 <div align="center">
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
-<div>
   
 </div>
 <!--h1 without bottom border-->
