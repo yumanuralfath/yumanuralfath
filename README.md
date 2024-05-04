@@ -2,7 +2,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg?style=for-the-badge)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa) <a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=yumanuralfath)](https://github.com/yumanuralfath)</a> 
+[![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg?style=plastic)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa) <a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=yumanuralfath)](https://github.com/yumanuralfath)</a> 
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
