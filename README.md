@@ -28,11 +28,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, NextJS, Nodejs, PostgreSql**
+- 🔭 I’m currently learning on **React, NextJS, Nodejs, PostgreSql**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 💬 Ask me about **AWS, react, nodejs, PostgreSql**
 
 - 📫 Feel free to reach me out **yumanuralfath2@gmail.com**
 
@@ -106,12 +104,6 @@
 </p>
 
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
 
 
 
