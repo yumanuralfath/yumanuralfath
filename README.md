@@ -88,7 +88,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,postgres,prisma,express,figma,firebase,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,discord,docker,postgres,prisma,express,elysia,vite,vercel,figma,firebase,jest,npm,yarn,pnpm,github,java,js,kali,md,nginx,bash,mysql,nextjs,notion,nodejs,bun,postman,py,react,vue,tailwind,aws,ts,vscode&perline=14" />
   </a>
 </p>
 
