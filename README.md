@@ -31,7 +31,7 @@
   </ul>
 </div>
 
-  [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg?style=social)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
+[![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 
 <!--Intro start-->
 - 🔭 I’m currently learning on **React, NextJS, Nodejs, PostgreSql**
