@@ -19,7 +19,7 @@
 </p>
 <!--- snake -->
 <div align="center">
-  <img  src="https://media.tenor.com/_n7-7ifNhhoAAAAi/azumanga-daioh-osaka.gif"
+  <img  src="https://media.tenor.com/qzhJm781ZScAAAAi/azumanga-daioh-azubounce.gif"
        alt="snake" /></a>
 </div>
 
@@ -33,8 +33,6 @@
 
 <!--Intro start-->
 - 🔭 I’m currently learning on **React, NextJS, Nodejs, PostgreSql**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
 - 📫 Feel free to reach me out **yumanuralfath2@gmail.com**
 
