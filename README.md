@@ -19,7 +19,7 @@
 </p>
 <!--- snake -->
 <div align="center">
-  <img  src="https://media.tenor.com/qzhJm781ZScAAAAi/azumanga-daioh-azubounce.gif"
+  <img  src="https://media.tenor.com/_n7-7ifNhhoAAAAi/azumanga-daioh-osaka.gif"
        alt="snake" /></a>
 </div>
 
