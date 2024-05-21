@@ -19,7 +19,7 @@
 </p>
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://media.tenor.com/_n7-7ifNhhoAAAAi/azumanga-daioh-osaka.gif"
        alt="snake" /></a>
 </div>
 
