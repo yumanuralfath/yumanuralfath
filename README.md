@@ -70,10 +70,10 @@
 </div>
 <!--- trophy (start) -->
 
-
 </p>        
 <!--- stats (end) -->
 
+![Codewars](https://www.codewars.com/users/Yumana20/badges/micro)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2015%20mins-blue)
 
