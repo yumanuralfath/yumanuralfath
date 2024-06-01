@@ -146,7 +146,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,discord,docker,postgres,prisma,express,elysia,vite,vercel,figma,jest,npm,yarn,pnpm,github,java,js,kali,md,nginx,bash,mysql,nextjs,notion,nodejs,bun,postman,py,react,vue,tailwind,aws,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,discord,docker,postgres,prisma,express,elysia,vite,vercel,figma,jest,npm,yarn,pnpm,github,java,js,ts,neovim,vscode,md,nginx,bash,mysql,nextjs,notion,nodejs,bun,postman,py,react,vue,tailwind,aws,kali,ubuntu&perline=14" />
   </a>
 </p>
 
