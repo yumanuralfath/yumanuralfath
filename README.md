@@ -17,12 +17,6 @@
   <p align="center">
   <img src="https://profile-counter.glitch.me/yumanuralfath/count.svg">
 </p>
-<!--- snake -->
-<div align="center">
-  <img  src="https://media.tenor.com/_n7-7ifNhhoAAAAi/azumanga-daioh-osaka.gif"
-       alt="snake" /></a>
-</div>
-
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
