@@ -73,7 +73,38 @@
 - ![Codewars](https://www.codewars.com/users/Yumana20/badges/micro)
 - [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1618 commits        ████████░░░░░░░░░░░░░░░░░   32.33 % 
+🌆 Daytime                1968 commits        ██████████░░░░░░░░░░░░░░░   39.33 % 
+🌃 Evening                1367 commits        ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+🌙 Night                  51 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   771 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Tuesday                  987 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Wednesday                1131 commits        ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+Thursday                 767 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Friday                   728 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Saturday                 241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Sunday                   379 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -88,7 +119,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2024 17:18:46 UTC
+ Last Updated on 23/10/2024 17:19:18 UTC
 <!--END_SECTION:waka-->
 
 
