@@ -100,10 +100,12 @@ Sunday                   372 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               57 mins             ██████████████████████░░░   89.04 % 
+JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+NextPortoYuma            1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +121,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2024 17:20:10 UTC
+ Last Updated on 07/12/2024 17:17:27 UTC
 <!--END_SECTION:waka-->
 
 
