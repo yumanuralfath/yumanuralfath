@@ -128,18 +128,17 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+<!-- <div id="user-content-toc"> -->
+<!--   <ul align="center"> -->
+<!--     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary> -->
+<!--   </ul> -->
+<!-- </div> -->
 <!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,discord,docker,postgres,prisma,express,elysia,vite,vercel,figma,jest,npm,yarn,pnpm,github,java,js,ts,ruby,neovim,vscode,md,nginx,bash,mysql,nextjs,rails,notion,nodejs,bun,postman,py,react,vue,tailwind,aws,kali,ubuntu&perline=14" />
-  </a>
-</p>
-
+<!-- <p align="center"> -->
+<!--   <a href="https://skillicons.dev"> -->
+<!--     <img src="https://skillicons.dev/icons?i=git,html,css,discord,docker,postgres,prisma,express,elysia,vite,vercel,figma,jest,npm,yarn,pnpm,github,java,js,ts,ruby,neovim,vscode,md,nginx,bash,mysql,nextjs,rails,notion,nodejs,bun,postman,py,react,vue,tailwind,aws,kali,ubuntu&perline=14" /> -->
+<!--   </a> -->
+<!-- </p> -->
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
