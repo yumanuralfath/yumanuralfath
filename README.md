@@ -1,5 +1,5 @@
 <div align='center'>
-<summary><h1 style="color: red;">Welcome to My Profile Adventurer✨</h1></summary>
+<summary><h1 style="color: red;">Welcome to My Profile✨</h1></summary>
 </div>
 <div align="center">
 <!--horizontal divider(gradiant)-->
@@ -17,21 +17,6 @@
   <p align="center">
   <img src="https://profile-counter.glitch.me/yumanuralfath/count.svg">
 </p>
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Junior FullStack Web Developer</h1></summary>
-  </ul>
-</div>
-
-<!--Intro start-->
-- 🔭 I’m currently learning on **React, NextJS, Nodejs, PostgreSql**
-
-- 📫 Feel free to reach me out **yumanuralfath2@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [yumana_20](https://discordapp.com/users/393721612358254592) my username!
-<!--Intro end-->
 
 
 
