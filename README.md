@@ -14,11 +14,6 @@
   </ul>
 </div>
 
-  <p align="center">
-  <img src="https://profile-counter.glitch.me/yumanuralfath/count.svg">
-</p>
-
-
 
 <!--- stats & Trophy (start) -->
 <p align="center">
