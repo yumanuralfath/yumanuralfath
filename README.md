@@ -79,10 +79,10 @@ Sunday                   138 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 46 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Obsidian-Note            2 hrs 46 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -98,7 +98,7 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2025 17:17:38 UTC
+ Last Updated on 05/11/2025 17:21:29 UTC
 <!--END_SECTION:waka-->
 
 
