@@ -15,7 +15,8 @@
 </div>
 <!--takatime-start-->
 
-<h2 align="center">TakaTime Weekly Report</h2>
+<h2 align="center">Code Time Weekly Report</h2>
+<h3 align="center">Since 9 February 2026</h3>
 
 <p align="center">
   <img src="./public/taka-time.png" width="100%" alt="Time Stats" /><br/>
@@ -23,8 +24,6 @@
   <img src="./public/taka-projects.png" width="400" alt="Projects" /><br/>
   <img src="./public/taka-tech.png" width="100%" alt="Tech Stack" />
 </p>
-
-<p align="center"><em>Generated automatically by <a href="https://github.com/Rtarun3606k/TakaTime">TakaTime</a></em></p>
 
 <!--takatime-end-->
 <p align="center">
@@ -88,6 +87,8 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ```
 
 Last Updated on 08/02/2026 17:28:39 UTC
+
+<p align="center"><em>Generated automatically by <a href="https://github.com/Rtarun3606k/TakaTime">TakaTime</a></em></p>
 
 <!--END_SECTION:waka-->
 
