@@ -25,4 +25,4 @@ jobs:
           MONGO_URI: ${{ secrets.MONGO_URI }}
           GIST_TOKEN: ${{ github.token }}
           TARGET_REPO: ${{ github.repository }}
-        run: ./taka-report -days=365 -bg "#0d1117" -text "#00FF00" -subtext "#008800" -bar-bg "#111111" -c1 "#00FF00" -c2 "#00DD00" -c3 "#00AA00" -c4 "#005500"
+        run: ./taka-report -bg "#0d1117" -text "#00FF00" -subtext "#008800" -bar-bg "#111111" -c1 "#00FF00" -c2 "#00DD00" -c3 "#00AA00" -c4 "#005500"

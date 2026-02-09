@@ -13,12 +13,10 @@
     <summary><h2 style="display: inline-block">Hi 👋, I'm Yuma </h2></summary>
   </ul>
 </div>
-
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yumanuralfath&theme=radical&hide_border=false" />
-
 <!--takatime-start-->
 
-<h2 align="center">TakaTime Weekly Report</h2>
+<h2 align="center">Code Time Weekly Report</h2>
+<h3 align="center"> Since 09 Feb 2026</h3>
 
 <p align="center">
   <img src="./public/taka-time.png" width="100%" alt="Time Stats" /><br/>
@@ -30,6 +28,9 @@
 <p align="center"><em>Generated automatically by <a href="https://github.com/Rtarun3606k/TakaTime">TakaTime</a></em></p>
 
 <!--takatime-end-->
+<p align="center">
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yumanuralfath&theme=radical&hide_border=false" />
+</p>
 
 **Code Time Since May 4, 2024**
 
