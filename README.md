@@ -14,101 +14,82 @@
   </ul>
 </div>
 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yumanuralfath&theme=radical&hide_border=false" />
 
-<!--- stats & Trophy (start) -->
+<!--takatime-start-->
+
+<h2 align="center">TakaTime Weekly Report</h2>
+
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=yumanuralfath&theme=radical&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yumanuralfath&theme=radical&hide_border=false" /> 
-</td>
+  <img src="./public/taka-time.png" width="100%" alt="Time Stats" /><br/>
+  <img src="./public/taka-languages.png" width="400" alt="Languages" />
+  <img src="./public/taka-projects.png" width="400" alt="Projects" /><br/>
+  <img src="./public/taka-tech.png" width="100%" alt="Tech Stack" />
+</p>
 
-<td width="50%" align="center">
+<p align="center"><em>Generated automatically by <a href="https://github.com/Rtarun3606k/TakaTime">TakaTime</a></em></p>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yumanuralfath&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=yumanuralfath&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-</p>        
-<!--- stats (end) -->
+<!--takatime-end-->
 
 **Code Time Since May 4, 2024**
-- ![Codewars](https://www.codewars.com/users/Yumana20/badges/micro)
+
 - [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 - [![Leetcode Stats](https://leetcard.jacoblin.cool/yumanuralfath?ext=activity&theme=wtf&font=milonga)](https://leetcode.com/yumanuralfath)
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.26%20million%20lines%20of%20code-blue?style=flat)
+  <!--START_SECTION:waka-->
+  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.26%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                591 commits         █████████████░░░░░░░░░░░░   53.53 % 
-🌆 Daytime                280 commits         ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-🌃 Evening                207 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-🌙 Night                  26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-```
-📅 **I'm Most Productive on Saturday** 
+**I'm an Early 🐤**
 
 ```text
-Monday                   138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Tuesday                  145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Wednesday                177 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Thursday                 105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Friday                   156 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Saturday                 217 commits         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-Sunday                   166 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+🌞 Morning                591 commits         █████████████░░░░░░░░░░░░   53.53 %
+🌆 Daytime                280 commits         ██████░░░░░░░░░░░░░░░░░░░   25.36 %
+🌃 Evening                207 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 %
+🌙 Night                  26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📅 **I'm Most Productive on Saturday**
 
 ```text
-💬 Programming Languages: 
-Rust                     18 hrs 46 mins      █████████████░░░░░░░░░░░░   53.81 % 
-Markdown                 8 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-TOML                     2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-C                        1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Kotlin                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-
-🐱‍💻 Projects: 
-save_project             16 hrs 24 mins      ████████████░░░░░░░░░░░░░   47.03 % 
-Obsidian-Note            9 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.96 % 
-p2p_web_game             2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-bevy_learn               1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-learn_c                  1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Monday                   138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+Tuesday                  145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 %
+Wednesday                177 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
+Thursday                 105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Friday                   156 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 %
+Saturday                 217 commits         █████░░░░░░░░░░░░░░░░░░░░   19.66 %
+Sunday                   166 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 %
 ```
 
-**I Mostly Code in JavaScript** 
+📊 **This Week I Spent My Time On**
 
 ```text
-Kotlin                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-C                        4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+💬 Programming Languages:
+Rust                     18 hrs 46 mins      █████████████░░░░░░░░░░░░   53.81 %
+Markdown                 8 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.78 %
+TOML                     2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+C                        1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Kotlin                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+
+🐱‍💻 Projects:
+save_project             16 hrs 24 mins      ████████████░░░░░░░░░░░░░   47.03 %
+Obsidian-Note            9 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.96 %
+p2p_web_game             2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+bevy_learn               1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+learn_c                  1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
+**I Mostly Code in JavaScript**
 
+```text
+Kotlin                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+C                        4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+```
 
+Last Updated on 08/02/2026 17:28:39 UTC
 
- Last Updated on 08/02/2026 17:28:39 UTC
 <!--END_SECTION:waka-->
-
 
 <!--h1 without bottom border-->
 <!-- <div id="user-content-toc"> -->
@@ -139,13 +120,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
   
 </p>
 
-
-
-
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-----------------------------------------------------------------------
+---
