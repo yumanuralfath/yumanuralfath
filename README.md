@@ -41,6 +41,45 @@
   <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.52%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                929 commits         ██████████████░░░░░░░░░░░   55.04 % 
+🌆 Daytime                402 commits         ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+🌃 Evening                318 commits         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   245 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Tuesday                  242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Wednesday                288 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Thursday                 169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Friday                   230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Saturday                 290 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Sunday                   224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   3 hrs 33 mins       █████████████████░░░░░░░░   66.37 % 
+Markdown                 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Lua                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Julia                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+
+🐱‍💻 Projects: 
+ai_engineering           3 hrs 24 mins       ████████████████░░░░░░░░░   63.63 % 
+Unknown Project          43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Obsidian-Note            43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+nvim                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+dotfiles                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+```
+
 **I Mostly Code in Rust** 
 
 ```text
@@ -54,7 +93,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 18:20:13 UTC
+ Last Updated on 25/07/2026 18:00:29 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
