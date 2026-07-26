@@ -44,21 +44,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                929 commits         ██████████████░░░░░░░░░░░   55.04 % 
-🌆 Daytime                402 commits         ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-🌃 Evening                318 commits         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+🌞 Morning                930 commits         ██████████████░░░░░░░░░░░   55.06 % 
+🌆 Daytime                402 commits         ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+🌃 Evening                318 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
 🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   245 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Tuesday                  242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Wednesday                288 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Tuesday                  242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Wednesday                288 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
 Thursday                 169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Friday                   230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Saturday                 290 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Sunday                   224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Friday                   230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Saturday                 290 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Sunday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
 ```
 
 
@@ -66,18 +66,17 @@ Sunday                   224 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 33 mins       █████████████████░░░░░░░░   66.37 % 
-Markdown                 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Lua                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Julia                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Python                   1 hr 29 mins        ███████████████░░░░░░░░░░   61.08 % 
+Markdown                 43 mins             ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+Julia                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+bigfile                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🐱‍💻 Projects: 
-ai_engineering           3 hrs 24 mins       ████████████████░░░░░░░░░   63.63 % 
-Unknown Project          43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Obsidian-Note            43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-nvim                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-dotfiles                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+ai_engineering           1 hr 39 mins        █████████████████░░░░░░░░   67.42 % 
+Obsidian-Note            43 mins             ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+LazyVim                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -93,7 +92,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 18:00:29 UTC
+ Last Updated on 26/07/2026 18:04:21 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
