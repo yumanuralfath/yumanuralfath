@@ -39,6 +39,8 @@
 - [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 - [![Leetcode Stats](https://leetcard.jacoblin.cool/yumanuralfath?ext=activity&theme=wtf&font=milonga)](https://leetcode.com/yumanuralfath)
   <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2040%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.52%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -66,17 +68,24 @@ Sunday                   225 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 29 mins        ███████████████░░░░░░░░░░   61.08 % 
-Markdown                 43 mins             ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-Julia                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-bigfile                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Markdown                 49 mins             ██████████████░░░░░░░░░░░   54.45 % 
+Python                   30 mins             ████████░░░░░░░░░░░░░░░░░   33.13 % 
+Julia                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+bigfile                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+conf                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🐱‍💻 Projects: 
-ai_engineering           1 hr 39 mins        █████████████████░░░░░░░░   67.42 % 
-Obsidian-Note            43 mins             ███████░░░░░░░░░░░░░░░░░░   29.59 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-LazyVim                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Obsidian-Note            49 mins             ██████████████░░░░░░░░░░░   54.32 % 
+ai_engineering           34 mins             ██████████░░░░░░░░░░░░░░░   38.01 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+dotfiles                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+LazyVim                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
@@ -92,7 +101,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 18:04:21 UTC
+ Last Updated on 27/07/2026 18:26:09 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
