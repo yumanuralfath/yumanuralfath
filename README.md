@@ -43,51 +43,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.52%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                930 commits         ██████████████░░░░░░░░░░░   55.06 % 
-🌆 Daytime                402 commits         ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-🌃 Evening                318 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   245 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Tuesday                  242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Wednesday                288 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Thursday                 169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Friday                   230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Saturday                 290 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Sunday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 49 mins             ██████████████░░░░░░░░░░░   54.45 % 
-Python                   30 mins             ████████░░░░░░░░░░░░░░░░░   33.13 % 
-Julia                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-bigfile                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-conf                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-
-🐱‍💻 Projects: 
-Obsidian-Note            49 mins             ██████████████░░░░░░░░░░░   54.32 % 
-ai_engineering           34 mins             ██████████░░░░░░░░░░░░░░░   38.01 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-dotfiles                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-LazyVim                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Rust** 
 
 ```text
@@ -101,7 +56,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 18:26:09 UTC
+ Last Updated on 28/07/2026 18:16:18 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
