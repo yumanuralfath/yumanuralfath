@@ -39,28 +39,28 @@
 - [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 - [![Leetcode Stats](https://leetcard.jacoblin.cool/yumanuralfath?ext=activity&theme=wtf&font=milonga)](https://leetcode.com/yumanuralfath)
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.53%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                936 commits         ██████████████░░░░░░░░░░░   55.03 % 
-🌆 Daytime                402 commits         ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-🌃 Evening                324 commits         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+🌞 Morning                936 commits         ██████████████░░░░░░░░░░░   54.96 % 
+🌆 Daytime                402 commits         ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+🌃 Evening                326 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
 🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   245 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Tuesday                  242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Wednesday                288 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Thursday                 169 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Friday                   230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Saturday                 301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Sunday                   226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Monday                   245 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Tuesday                  242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Wednesday                288 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Thursday                 169 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Friday                   230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Saturday                 301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Sunday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
 ```
 
 
@@ -68,19 +68,39 @@ Sunday                   226 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 mins              █████████████████░░░░░░░░   69.23 % 
-conf                     2 mins              ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Markdown                 1 hr 51 mins        ███████████████░░░░░░░░░░   60.61 % 
+Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Lua                      26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🐱‍💻 Projects: 
-Obsidian-Note            5 mins              █████████████████░░░░░░░░   69.23 % 
-dotfiles                 2 mins              ███████░░░░░░░░░░░░░░░░░░   29.97 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Obsidian-Note            1 hr 51 mins        ███████████████░░░░░░░░░░   60.61 % 
+dotfiles                 43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+hypr                     29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 20 mins (43.68%)
+
+✍️ 86 lines written by AI, 90 lines written by hand (48.86% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 17 AI Prompts
+
+Gemini                   91 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 48.86% of written lines came from AI
+📝 Concise Prompter — average 102 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 61.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -96,7 +116,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 18:04:17 UTC
+ Last Updated on 02/08/2026 18:02:42 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
