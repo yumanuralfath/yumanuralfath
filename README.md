@@ -43,66 +43,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.53%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                936 commits         ██████████████░░░░░░░░░░░   54.77 % 
-🌆 Daytime                404 commits         ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-🌃 Evening                330 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Tuesday                  244 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Wednesday                290 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Thursday                 169 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Friday                   230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Saturday                 301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Sunday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 2 hrs 11 mins       ████████████████░░░░░░░░░   65.25 % 
-Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Lua                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-
-🐱‍💻 Projects: 
-Obsidian-Note            2 hrs 11 mins       ████████████████░░░░░░░░░   65.25 % 
-dotfiles                 40 mins             █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-hypr                     29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 20 mins (39.95%)
-
-✍️ 86 lines written by AI, 123 lines written by hand (41.15% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 17 AI Prompts
-
-Gemini                   91 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 41.15% of written lines came from AI
-📝 Concise Prompter — average 102 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 67.84% of changed lines were hand-edited
-```
-
 **I Mostly Code in Rust** 
 
 ```text
@@ -116,7 +56,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 18:23:52 UTC
+ Last Updated on 07/08/2026 17:52:05 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
