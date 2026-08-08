@@ -11,7 +11,6 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Hi 👋, I'm Yuma </h2></summary>
-    Repo Move to =====> https://codeberg.org/Yumana
   </ul>
 </div>
 <!--takatime-start-->
