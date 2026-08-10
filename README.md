@@ -67,25 +67,25 @@ Sunday                   231 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 2 mins        █████████████████████░░░░   85.11 % 
-Rust                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Lua                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Markdown                 2 hrs 12 mins       ███████████████████░░░░░░   76.64 % 
+Rust                     36 mins             █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Lua                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-Obsidian-Note            2 hrs 2 mins        █████████████████████░░░░   85.11 % 
-journal                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-dotfiles                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-scripts                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Obsidian-Note            2 hrs 12 mins       ███████████████████░░░░░░   76.64 % 
+journal                  36 mins             █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+dotfiles                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+scripts                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.44%)
+⏱ AI Coding Time: 0 secs (0.37%)
 
-✍️ 3 lines written by AI, 193 lines written by hand (1.53% AI-written)
+✍️ 3 lines written by AI, 196 lines written by hand (1.51% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -96,7 +96,7 @@ scripts                  0 secs              ░░░░░░░░░░░�
 Gemini                   3 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.53% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 1.51% of written lines came from AI
 📝 Concise Prompter — average 368 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 98.79% of changed lines were hand-edited
@@ -115,7 +115,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 17:33:55 UTC
+ Last Updated on 10/08/2026 17:54:05 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
