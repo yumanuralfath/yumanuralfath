@@ -45,21 +45,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                947 commits         ██████████████░░░░░░░░░░░   54.55 % 
-🌆 Daytime                406 commits         ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-🌃 Evening                344 commits         █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+🌞 Morning                948 commits         ██████████████░░░░░░░░░░░   54.58 % 
+🌆 Daytime                406 commits         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+🌃 Evening                344 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
 🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Tuesday                  251 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Wednesday                294 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Monday                   247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Tuesday                  251 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Wednesday                294 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
 Thursday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Friday                   231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Saturday                 308 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Sunday                   231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Friday                   232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Saturday                 308 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Sunday                   231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
 ```
 
 
@@ -67,40 +67,38 @@ Sunday                   231 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 26 mins       █████████████░░░░░░░░░░░░   52.58 % 
-Rust                     1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   38.52 % 
-Lua                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Markdown                 2 hrs 46 mins       █████████████░░░░░░░░░░░░   53.74 % 
+Rust                     1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   34.66 % 
+Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Lua                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🐱‍💻 Projects: 
-Obsidian-Note            2 hrs 26 mins       █████████████░░░░░░░░░░░░   52.58 % 
-journal                  1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   38.54 % 
-dotfiles                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-yuma                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-yazi                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Obsidian-Note            2 hrs 46 mins       █████████████░░░░░░░░░░░░   53.72 % 
+journal                  1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   34.68 % 
+Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+dotfiles                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+yuma                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (11.28%)
+⏱ AI Coding Time: 30 mins (9.94%)
 
-✍️ 3 lines written by AI, 203 lines written by hand (1.46% AI-written)
+✍️ 0 lines written by AI, 232 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 6 AI Prompts
-
-Gemini                   3 lines             █████████████████████████   100.00 % 
+🧠 4 AI Sessions, 5 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.46% of written lines came from AI
-📝 Concise Prompter — average 147 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 102 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 98.88% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -116,7 +114,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 17:59:22 UTC
+ Last Updated on 14/08/2026 17:55:06 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
