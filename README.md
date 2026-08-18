@@ -38,28 +38,28 @@
 - [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 - [![Leetcode Stats](https://leetcard.jacoblin.cool/yumanuralfath?ext=activity&theme=wtf&font=milonga)](https://leetcode.com/yumanuralfath)
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.53%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                956 commits         ██████████████░░░░░░░░░░░   54.79 % 
-🌆 Daytime                406 commits         ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-🌃 Evening                344 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+🌞 Morning                960 commits         ██████████████░░░░░░░░░░░   54.64 % 
+🌆 Daytime                414 commits         ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+🌃 Evening                344 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   250 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Tuesday                  251 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Wednesday                294 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Thursday                 174 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Friday                   233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Saturday                 310 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Sunday                   233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Monday                   250 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Tuesday                  263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Wednesday                294 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Thursday                 174 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Friday                   233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Saturday                 310 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Sunday                   233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
 ```
 
 
@@ -67,56 +67,56 @@ Sunday                   233 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     5 hrs 31 mins       ███████████████░░░░░░░░░░   58.03 % 
-Markdown                 2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-conf                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Rust                     9 hrs 42 mins       ████████████████░░░░░░░░░   65.85 % 
+Markdown                 2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Lua                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TOML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🐱‍💻 Projects: 
-kindle_weeb              4 hrs 10 mins       ███████████░░░░░░░░░░░░░░   43.81 % 
-Obsidian-Note            1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-journal                  1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-AyoMenulis               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Unknown Project          35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+kindle_weeb              8 hrs 40 mins       ███████████████░░░░░░░░░░   58.87 % 
+Obsidian-Note            1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+journal                  1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+dotfiles                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+AyoMenulis               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 2 mins (31.95%)
+⏱ AI Coding Time: 5 hrs 46 mins (39.16%)
 
-✍️ 141 lines written by AI, 2,238 lines written by hand (5.93% AI-written)
+✍️ 940 lines written by AI, 2,884 lines written by hand (24.58% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 25 AI Prompts
+🧠 26 AI Sessions, 82 AI Prompts
 
-Gemini                   258 lines           █████████████████████████   100.00 % 
+Gemini                   1,125 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.93% of written lines came from AI
-📝 Concise Prompter — average 95 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 93.21% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 24.58% of written lines came from AI
+📝 Concise Prompter — average 145 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 80.59% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     22 repos            ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Dart                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Rust                     23 repos            ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Dart                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 
 
 
 
- Last Updated on 17/08/2026 17:31:56 UTC
+ Last Updated on 18/08/2026 17:29:34 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
