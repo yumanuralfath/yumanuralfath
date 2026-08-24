@@ -67,40 +67,40 @@ Sunday                   233 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     13 hrs 58 mins      ███████████████████░░░░░░   77.72 % 
-Markdown                 1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-conf                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Lua                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-TOML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Rust                     9 hrs 55 mins       ███████████████████░░░░░░   76.78 % 
+Markdown                 1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Lua                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+TOML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🐱‍💻 Projects: 
-kindle_weeb              8 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.44 % 
-KindWeebCLI              6 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   34.36 % 
-Obsidian-Note            1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-dotfiles                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Unknown Project          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+KindWeebCLI              6 hrs 10 mins       ████████████░░░░░░░░░░░░░   47.78 % 
+kindle_weeb              4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.10 % 
+Obsidian-Note            1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+dotfiles                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 5 mins (28.27%)
+⏱ AI Coding Time: 3 hrs 10 mins (24.52%)
 
-✍️ 917 lines written by AI, 6,030 lines written by hand (13.2% AI-written)
+✍️ 799 lines written by AI, 3,955 lines written by hand (16.81% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 249 AI Prompts
+🧠 17 AI Sessions, 231 AI Prompts
 
-Gemini                   1,101 lines         █████████████████████████   100.00 % 
+Gemini                   867 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 13.2% of written lines came from AI
-📝 Concise Prompter — average 47 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🔍 Hands-On Reviewer — 88.42% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 16.81% of written lines came from AI
+📝 Concise Prompter — average 46 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 85.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -116,7 +116,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 17:22:49 UTC
+ Last Updated on 24/08/2026 17:33:49 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
