@@ -67,25 +67,23 @@ Sunday                   233 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     5 hrs 45 mins       ███████████████████░░░░░░   74.85 % 
-Markdown                 1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-conf                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-Lua                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-TOML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Rust                     3 hrs 13 mins       ███████████████████░░░░░░   77.03 % 
+Markdown                 48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Lua                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🐱‍💻 Projects: 
-KindWeebCLI              6 hrs 10 mins       ████████████████████░░░░░   80.43 % 
-Obsidian-Note            1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-dotfiles                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+KindWeebCLI              3 hrs 20 mins       ████████████████████░░░░░   79.69 % 
+Obsidian-Note            44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (5.3%)
+⏱ AI Coding Time: 24 mins (9.72%)
 
-✍️ 0 lines written by AI, 3,302 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 3,078 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -113,7 +111,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 17:34:32 UTC
+ Last Updated on 26/08/2026 19:05:37 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
