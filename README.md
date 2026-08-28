@@ -67,35 +67,22 @@ Sunday                   233 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     3 hrs 13 mins       ███████████████████░░░░░░   77.03 % 
-Markdown                 48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Lua                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Rust                     37 mins             ███████████████░░░░░░░░░░   58.62 % 
+Markdown                 24 mins             ██████████░░░░░░░░░░░░░░░   39.23 % 
+Lua                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-KindWeebCLI              3 hrs 20 mins       ████████████████████░░░░░   79.69 % 
-Obsidian-Note            44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+kindle_weeb_cli          37 mins             ███████████████░░░░░░░░░░   58.62 % 
+Obsidian-Note            24 mins             ██████████░░░░░░░░░░░░░░░   39.23 % 
+nvim                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (9.72%)
-
-✍️ 0 lines written by AI, 3,078 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 55 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 18 characters per prompt
-🔁 Iterative Prompter — average 28 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
@@ -111,7 +98,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 19:05:37 UTC
+ Last Updated on 28/08/2026 01:21:11 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
