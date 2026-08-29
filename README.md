@@ -38,7 +38,7 @@
 - [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 - [![Leetcode Stats](https://leetcard.jacoblin.cool/yumanuralfath?ext=activity&theme=wtf&font=milonga)](https://leetcode.com/yumanuralfath)
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.54%20million%20lines%20of%20code-blue?style=flat)
 
@@ -67,22 +67,38 @@ Sunday                   233 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     37 mins             ███████████████░░░░░░░░░░   58.62 % 
-Markdown                 24 mins             ██████████░░░░░░░░░░░░░░░   39.23 % 
-Lua                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Lua                      1 hr 55 mins        ████████████░░░░░░░░░░░░░   49.43 % 
+Rust                     1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   29.16 % 
+Other                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+conf                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+env                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🐱‍💻 Projects: 
-kindle_weeb_cli          37 mins             ███████████████░░░░░░░░░░   58.62 % 
-Obsidian-Note            24 mins             ██████████░░░░░░░░░░░░░░░   39.23 % 
-nvim                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Unknown Project          1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   32.80 % 
+Korustic                 40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+yumana_api_V2            39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+kindle_weeb_cli          37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+yazi                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 46 mins (20.16%)
+
+✍️ 0 lines written by AI, 351 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 12 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 98 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -98,7 +114,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 01:21:11 UTC
+ Last Updated on 29/08/2026 00:54:45 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
