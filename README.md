@@ -46,21 +46,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                964 commits         ██████████████░░░░░░░░░░░   54.28 % 
-🌆 Daytime                415 commits         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-🌃 Evening                357 commits         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+🌞 Morning                964 commits         ██████████████░░░░░░░░░░░   54.22 % 
+🌆 Daytime                415 commits         ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+🌃 Evening                359 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
 🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   250 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Tuesday                  266 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Wednesday                303 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Thursday                 176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Friday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Saturday                 311 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Sunday                   233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Monday                   250 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Tuesday                  266 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Wednesday                303 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Thursday                 178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Friday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Saturday                 311 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Sunday                   233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
 ```
 
 
@@ -68,26 +68,26 @@ Sunday                   233 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       6 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.89 % 
-Rust                     4 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-Markdown                 2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Lua                      2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+C#                       6 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+Rust                     4 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Markdown                 4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Svelte                   2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Lua                      2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
 
 🐱‍💻 Projects: 
-Unknown Project          7 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   40.36 % 
-Korustic                 6 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   37.14 % 
-kindle_weeb_cli          1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-yumana_api_V2            39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-DungeonSlime             33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Unknown Project          8 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.81 % 
+Korustic                 6 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+book_stats               2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Obsidian-Note            1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+kindle_weeb_cli          1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 59 mins (38.11%)
+⏱ AI Coding Time: 6 hrs 59 mins (30.73%)
 
-✍️ 1,201 lines written by AI, 1,625 lines written by hand (42.5% AI-written)
+✍️ 1,201 lines written by AI, 2,447 lines written by hand (32.92% AI-written)
 
 🔤 6,217,065 Input Tokens, 155,992 Output Tokens
 
@@ -101,10 +101,10 @@ Hy                       0 lines             ░░░░░░░░░░░�
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 42.5% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 32.92% of written lines came from AI
 📚 Verbose Prompter — average 3,104 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 66.49% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 73.35% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -120,7 +120,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 19:40:40 UTC
+ Last Updated on 03/09/2026 19:42:35 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
