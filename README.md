@@ -68,26 +68,26 @@ Sunday                   233 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       6 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-Rust                     4 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-Markdown                 4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Svelte                   2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Lua                      2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+C#                       6 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+Rust                     4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Markdown                 4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+Svelte                   2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Lua                      2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
 
 🐱‍💻 Projects: 
-Unknown Project          8 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.81 % 
-Korustic                 6 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-book_stats               2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Obsidian-Note            1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-kindle_weeb_cli          1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Unknown Project          8 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.57 % 
+Korustic                 6 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.11 % 
+book_stats               2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Obsidian-Note            1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+yumana_api_V2            44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 59 mins (30.73%)
+⏱ AI Coding Time: 6 hrs 59 mins (30.9%)
 
-✍️ 1,201 lines written by AI, 2,447 lines written by hand (32.92% AI-written)
+✍️ 1,201 lines written by AI, 2,297 lines written by hand (34.33% AI-written)
 
 🔤 6,217,065 Input Tokens, 155,992 Output Tokens
 
@@ -101,10 +101,10 @@ Hy                       0 lines             ░░░░░░░░░░░�
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 32.92% of written lines came from AI
+⚖️ Balanced with AI — 34.33% of written lines came from AI
 📚 Verbose Prompter — average 3,104 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 73.35% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 71.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -120,7 +120,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 19:42:35 UTC
+ Last Updated on 04/09/2026 01:36:11 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
