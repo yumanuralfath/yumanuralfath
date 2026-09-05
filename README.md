@@ -35,7 +35,7 @@
 - [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 - [![Leetcode Stats](https://leetcard.jacoblin.cool/yumanuralfath?ext=activity&theme=wtf&font=milonga)](https://leetcode.com/yumanuralfath)
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.54%20million%20lines%20of%20code-blue?style=flat)
 
@@ -64,43 +64,43 @@ Sunday                   233 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       6 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.08 % 
-Rust                     4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-Markdown                 4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-Svelte                   2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Lua                      2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+C#                       6 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+Rust                     4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Markdown                 4 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Svelte                   4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Lua                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🐱‍💻 Projects: 
-Unknown Project          8 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.57 % 
-Korustic                 6 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.11 % 
-book_stats               2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Obsidian-Note            1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-yumana_api_V2            44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Unknown Project          7 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   31.81 % 
+Korustic                 6 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+book_stats               4 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Obsidian-Note            1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+WeebCentralDownloader    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 59 mins (30.9%)
+⏱ AI Coding Time: 7 hrs 10 mins (32.33%)
 
-✍️ 1,201 lines written by AI, 2,297 lines written by hand (34.33% AI-written)
+✍️ 1,201 lines written by AI, 3,506 lines written by hand (25.52% AI-written)
 
-🔤 6,217,065 Input Tokens, 155,992 Output Tokens
+🔤 8,037,658 Input Tokens, 289,403 Output Tokens
 
-💵 $211.52 Estimated AI Cost This Week
+💵 $391.57 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 32 AI Prompts
+🧠 24 AI Sessions, 28 AI Prompts
 
 Nemotron                 1,314 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Hy                       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tencent Hy               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 34.33% of written lines came from AI
-📚 Verbose Prompter — average 3,104 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 71.87% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 25.52% of written lines came from AI
+📚 Verbose Prompter — average 5,608 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 78.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -116,7 +116,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 19:22:00 UTC
+ Last Updated on 05/09/2026 18:51:30 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
