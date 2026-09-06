@@ -64,43 +64,40 @@ Sunday                   233 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       6 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-Rust                     4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-Markdown                 4 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Svelte                   4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-Lua                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+C#                       6 hrs 30 mins       ███████████░░░░░░░░░░░░░░   43.31 % 
+Svelte                   4 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.35 % 
+Markdown                 1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Rust                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+TypeScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          7 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   31.81 % 
-Korustic                 6 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-book_stats               4 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-Obsidian-Note            1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-WeebCentralDownloader    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Unknown Project          6 hrs 37 mins       ███████████░░░░░░░░░░░░░░   44.07 % 
+book_stats               4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+Obsidian-Note            1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+WeebCentralDownloader    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+DungeonSlime             33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 10 mins (32.33%)
+⏱ AI Coding Time: 1 hr 5 mins (7.3%)
 
-✍️ 1,201 lines written by AI, 3,506 lines written by hand (25.52% AI-written)
+✍️ 0 lines written by AI, 3,372 lines written by hand (0.0% AI-written)
 
-🔤 8,037,658 Input Tokens, 289,403 Output Tokens
+🔤 34,368 Input Tokens, 34,368 Output Tokens
 
-💵 $391.57 Estimated AI Cost This Week
+💵 $0.27 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 28 AI Prompts
+🧠 14 AI Sessions, 4 AI Prompts
 
-Nemotron                 1,314 lines         █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tencent Hy               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 25.52% of written lines came from AI
-📚 Verbose Prompter — average 5,608 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 78.61% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 34,368 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -116,7 +113,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 18:51:30 UTC
+ Last Updated on 06/09/2026 18:56:20 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
