@@ -35,28 +35,28 @@
 - [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 - [![Leetcode Stats](https://leetcard.jacoblin.cool/yumanuralfath?ext=activity&theme=wtf&font=milonga)](https://leetcode.com/yumanuralfath)
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2052%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.54%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                971 commits         ██████████████░░░░░░░░░░░   54.09 % 
-🌆 Daytime                420 commits         ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-🌃 Evening                364 commits         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+🌞 Morning                971 commits         ██████████████░░░░░░░░░░░   54.03 % 
+🌆 Daytime                421 commits         ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+🌃 Evening                365 commits         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
 🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   257 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Tuesday                  267 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Wednesday                303 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Thursday                 178 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Friday                   246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Saturday                 311 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Sunday                   233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Monday                   257 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Tuesday                  267 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Wednesday                305 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Thursday                 178 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Friday                   246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Saturday                 311 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Sunday                   233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
 ```
 
 
@@ -64,39 +64,39 @@ Sunday                   233 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Svelte                   5 hrs 49 mins       ███████████░░░░░░░░░░░░░░   43.79 % 
-Markdown                 2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-C#                       1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-TypeScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Svelte                   5 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   39.10 % 
+C++                      2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Markdown                 1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Bash                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+TypeScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 
 🐱‍💻 Projects: 
-book_stats               4 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.22 % 
-journal_yuma             3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-Unknown Project          2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-Obsidian-Note            1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-mongo_db_update          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+book_stats               4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+journal_yuma             3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+Unknown Project          3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+Obsidian-Note            1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+learn                    1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 49 mins (13.7%)
+⏱ AI Coding Time: 2 hrs 49 mins (18.99%)
 
-✍️ 0 lines written by AI, 2,797 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,914 lines written by hand (0.0% AI-written)
 
 🔤 14,528 Input Tokens, 14,528 Output Tokens
 
 💵 $0.12 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 13 AI Prompts
+🧠 13 AI Sessions, 23 AI Prompts
 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 4,758 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📚 Verbose Prompter — average 2,769 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -113,7 +113,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 19:48:06 UTC
+ Last Updated on 09/09/2026 19:39:29 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
