@@ -42,21 +42,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                971 commits         █████████████░░░░░░░░░░░░   53.94 % 
-🌆 Daytime                421 commits         ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-🌃 Evening                368 commits         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+🌞 Morning                971 commits         █████████████░░░░░░░░░░░░   53.82 % 
+🌆 Daytime                421 commits         ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+🌃 Evening                369 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+🌙 Night                  43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   257 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Tuesday                  267 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Wednesday                305 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Thursday                 180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Friday                   247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Saturday                 311 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Sunday                   233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Monday                   257 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Tuesday                  267 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Wednesday                305 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Thursday                 180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Friday                   247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Saturday                 315 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Sunday                   233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
 ```
 
 
@@ -64,40 +64,42 @@ Sunday                   233 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      4 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-C#                       3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Svelte                   2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Bash                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-CMake                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+C#                       6 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.69 % 
+C++                      4 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+Svelte                   1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Bash                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+CMake                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 🐱‍💻 Projects: 
-Unknown Project          5 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.02 % 
-journal_yuma             3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-learn                    2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-book_stats               1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-MonoGame-Extended-Samples1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Unknown Project          6 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.65 % 
+journal_yuma             3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+learn                    2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+RevolutionProject        2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+MonoGame-Extended-Samples1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 51 mins (27.63%)
+⏱ AI Coding Time: 5 hrs 5 mins (27.33%)
 
-✍️ 0 lines written by AI, 2,619 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,779 lines written by hand (0.0% AI-written)
 
-🔤 47,132 Input Tokens, 15,039 Output Tokens
+🔤 79,801 Input Tokens, 44,942 Output Tokens
 
-💵 $0.22 Estimated AI Cost This Week
+💵 $0.60 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 38 AI Prompts
+🧠 30 AI Sessions, 76 AI Prompts
 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 1,766 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 1,419 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -114,7 +116,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 19:31:08 UTC
+ Last Updated on 12/09/2026 19:01:47 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
