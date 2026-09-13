@@ -42,21 +42,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                971 commits         █████████████░░░░░░░░░░░░   53.82 % 
-🌆 Daytime                421 commits         ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-🌃 Evening                369 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+🌞 Morning                971 commits         █████████████░░░░░░░░░░░░   53.80 % 
+🌆 Daytime                421 commits         ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+🌃 Evening                370 commits         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
 🌙 Night                  43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   257 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Tuesday                  267 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Wednesday                305 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Thursday                 180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Friday                   247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Saturday                 315 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Sunday                   233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Monday                   257 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Tuesday                  267 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Wednesday                305 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Thursday                 180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Friday                   247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Saturday                 315 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Sunday                   234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
 ```
 
 
@@ -64,26 +64,26 @@ Sunday                   233 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       6 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.69 % 
-C++                      4 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-Svelte                   1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Bash                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-CMake                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+C#                       8 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.86 % 
+C++                      4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+Svelte                   1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Bash                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+CMake                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 🐱‍💻 Projects: 
-Unknown Project          6 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.65 % 
-journal_yuma             3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-learn                    2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-RevolutionProject        2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-MonoGame-Extended-Samples1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Unknown Project          8 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.84 % 
+journal_yuma             3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+learn                    2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+RevolutionProject        2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+MonoGame-Extended-Samples1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 5 mins (27.33%)
+⏱ AI Coding Time: 5 hrs 5 mins (24.42%)
 
-✍️ 0 lines written by AI, 1,779 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,915 lines written by hand (0.0% AI-written)
 
 🔤 79,801 Input Tokens, 44,942 Output Tokens
 
@@ -116,7 +116,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 19:01:47 UTC
+ Last Updated on 13/09/2026 19:15:05 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
