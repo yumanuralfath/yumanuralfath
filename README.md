@@ -64,32 +64,32 @@ Sunday                   234 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       11 hrs 16 mins      ████████████░░░░░░░░░░░░░   48.47 % 
-C++                      4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-XML                      2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-CMake                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Lua                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+C#                       12 hrs 55 mins      ███████████████░░░░░░░░░░   60.13 % 
+XML                      3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+C++                      2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Lua                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Svelte                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 🐱‍💻 Projects: 
-Unknown Project          9 hrs 59 mins       ███████████░░░░░░░░░░░░░░   42.97 % 
-learn                    2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-AvaloniaApplication1     2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-RevolutionProject        2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-MonoGame-Extended-Samples1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Unknown Project          8 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.70 % 
+RevolutionProject        3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+AvaloniaApplication1     2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+learn                    1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+MonoGame-Extended-Samples1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 38 mins (19.99%)
+⏱ AI Coding Time: 4 hrs 22 mins (20.37%)
 
-✍️ 0 lines written by AI, 4,631 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 4,539 lines written by hand (0.0% AI-written)
 
 🔤 79,801 Input Tokens, 44,942 Output Tokens
 
 💵 $0.60 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 71 AI Prompts
+🧠 29 AI Sessions, 66 AI Prompts
 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -98,7 +98,7 @@ Gemini                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,428 characters per prompt
+📚 Verbose Prompter — average 1,519 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -116,7 +116,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 20:05:46 UTC
+ Last Updated on 16/09/2026 19:53:50 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
