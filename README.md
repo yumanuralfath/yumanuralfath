@@ -42,21 +42,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                971 commits         █████████████░░░░░░░░░░░░   53.74 % 
-🌆 Daytime                421 commits         ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-🌃 Evening                372 commits         █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+🌞 Morning                971 commits         █████████████░░░░░░░░░░░░   53.65 % 
+🌆 Daytime                424 commits         ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+🌃 Evening                372 commits         █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
 🌙 Night                  43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   258 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Tuesday                  268 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Wednesday                305 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Thursday                 180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Friday                   247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Saturday                 315 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Sunday                   234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Monday                   258 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Tuesday                  268 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Wednesday                305 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Thursday                 183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Friday                   247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Saturday                 315 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Sunday                   234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
 ```
 
 
@@ -64,32 +64,32 @@ Sunday                   234 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       12 hrs 55 mins      ███████████████░░░░░░░░░░   60.13 % 
-XML                      3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-C++                      2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Lua                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Svelte                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+C#                       11 hrs 25 mins      ██████████████████░░░░░░░   70.45 % 
+XML                      2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Svelte                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Lua                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🐱‍💻 Projects: 
-Unknown Project          8 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.70 % 
-RevolutionProject        3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-AvaloniaApplication1     2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-learn                    1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-MonoGame-Extended-Samples1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Unknown Project          5 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   33.53 % 
+RevolutionProject        3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+AvaloniaApplication1     2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+MonoGame-Extended-Samples1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+journal_yuma             43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 22 mins (20.37%)
+⏱ AI Coding Time: 2 hrs 30 mins (15.53%)
 
-✍️ 0 lines written by AI, 4,539 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 4,115 lines written by hand (0.0% AI-written)
 
-🔤 79,801 Input Tokens, 44,942 Output Tokens
+🔤 79,442 Input Tokens, 44,583 Output Tokens
 
 💵 $0.60 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 66 AI Prompts
+🧠 21 AI Sessions, 56 AI Prompts
 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -98,8 +98,8 @@ Gemini                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 1,519 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 1,738 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -116,7 +116,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 19:53:50 UTC
+ Last Updated on 17/09/2026 20:05:54 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
