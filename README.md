@@ -37,26 +37,26 @@
   <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2020%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.54%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.55%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                971 commits         █████████████░░░░░░░░░░░░   53.65 % 
-🌆 Daytime                424 commits         ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-🌃 Evening                372 commits         █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-🌙 Night                  43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+🌞 Morning                971 commits         █████████████░░░░░░░░░░░░   53.62 % 
+🌆 Daytime                425 commits         ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+🌃 Evening                372 commits         █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+🌙 Night                  43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   258 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Tuesday                  268 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Wednesday                305 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Thursday                 183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Friday                   247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Saturday                 315 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Sunday                   234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Tuesday                  268 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Wednesday                305 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Thursday                 183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Friday                   247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Saturday                 315 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Sunday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
 ```
 
 
@@ -64,26 +64,26 @@ Sunday                   234 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       6 hrs 51 mins       ████████████████░░░░░░░░░   64.26 % 
-XML                      2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-Svelte                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Lua                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+C#                       4 hrs 37 mins       ██████████████░░░░░░░░░░░   54.87 % 
+XML                      2 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+Svelte                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Lua                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.16 % 
-AvaloniaApplication1     2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-RevolutionProject        1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-journal_yuma             43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-MonoLearn                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Unknown Project          2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+AvaloniaApplication1     2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+RevolutionProject        1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+journal_yuma             43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+MonoLearn                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 40 mins (15.71%)
+⏱ AI Coding Time: 1 hr 40 mins (19.84%)
 
-✍️ 0 lines written by AI, 3,448 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 3,312 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -101,17 +101,17 @@ MonoLearn                26 mins             █░░░░░░░░░░�
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     23 repos            █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Svelte                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-C#                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Rust                     23 repos            █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Svelte                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 
 
 
- Last Updated on 19/09/2026 19:15:07 UTC
+ Last Updated on 20/09/2026 19:19:35 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
