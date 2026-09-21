@@ -35,7 +35,7 @@
 - [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 - [![Leetcode Stats](https://leetcard.jacoblin.cool/yumanuralfath?ext=activity&theme=wtf&font=milonga)](https://leetcode.com/yumanuralfath)
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.55%20million%20lines%20of%20code-blue?style=flat)
 
@@ -64,38 +64,40 @@ Sunday                   235 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       4 hrs 37 mins       ██████████████░░░░░░░░░░░   54.87 % 
-XML                      2 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-Svelte                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Lua                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+C#                       2 hrs 46 mins       ██████████████████░░░░░░░   70.48 % 
+XML                      41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Desktop file             14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.94 % 
-AvaloniaApplication1     2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-RevolutionProject        1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-journal_yuma             43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-MonoLearn                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+RevolutionProject        1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   32.73 % 
+BaitAlhikmah             39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Unknown Project          32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+NinjaBoy                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+MonoLearn                26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 40 mins (19.84%)
+⏱ AI Coding Time: 1 hr 18 mins (33.25%)
 
-✍️ 0 lines written by AI, 3,312 lines written by hand (0.0% AI-written)
+✍️ 9 lines written by AI, 442 lines written by hand (2.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 22,324 Input Tokens, 140 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.07 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 41 AI Prompts
+🧠 5 AI Sessions, 10 AI Prompts
+
+Github-Copilot           9 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 170 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 2.0% of written lines came from AI
+📝 Concise Prompter — average 181 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 98.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -111,7 +113,7 @@ Svelte                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 19:19:35 UTC
+ Last Updated on 21/09/2026 20:52:23 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
