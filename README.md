@@ -35,7 +35,7 @@
 - [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 - [![Leetcode Stats](https://leetcard.jacoblin.cool/yumanuralfath?ext=activity&theme=wtf&font=milonga)](https://leetcode.com/yumanuralfath)
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.55%20million%20lines%20of%20code-blue?style=flat)
 
@@ -64,56 +64,56 @@ Sunday                   235 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       3 hrs 40 mins       █████████████████████░░░░   85.06 % 
-XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Desktop file             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+C#                       8 hrs 51 mins       ███████████████░░░░░░░░░░   61.17 % 
+Rust                     2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+TypeScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Svelte                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 🐱‍💻 Projects: 
-projectLearn             2 hrs 11 mins       █████████████░░░░░░░░░░░░   50.92 % 
-BaitAlhikmah             39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-NinjaBoy                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-BookStats                21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Unknown Project          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+projectLearn             7 hrs 26 mins       █████████████░░░░░░░░░░░░   51.37 % 
+kobook_insight           2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+jurnal_yuma              1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+BaitAlhikmah             39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+NinjaBoy                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 mins (21.0%)
+⏱ AI Coding Time: 5 hrs 16 mins (36.43%)
 
-✍️ 9 lines written by AI, 331 lines written by hand (2.65% AI-written)
+✍️ 5,100 lines written by AI, 851 lines written by hand (85.7% AI-written)
 
-🔤 214,968 Input Tokens, 5,407 Output Tokens
+🔤 448,816 Input Tokens, 9,109 Output Tokens
 
-💵 $0.73 Estimated AI Cost This Week
+💵 $1.48 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 18 AI Prompts
+🧠 21 AI Sessions, 67 AI Prompts
 
-Github-Copilot           9 lines             █████████████████████████   100.00 % 
+Github-Copilot           5,100 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.65% of written lines came from AI
-📝 Concise Prompter — average 93 characters per prompt
+🤖 AI-Driven — 85.7% of written lines came from AI
+📝 Concise Prompter — average 185 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 98.21% of changed lines were hand-edited
+🚀 High AI Trust — 18.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     23 repos            █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-C#                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Svelte                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Rust                     24 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+C#                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Svelte                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
 
 
- Last Updated on 23/09/2026 20:01:29 UTC
+ Last Updated on 24/09/2026 20:19:31 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
