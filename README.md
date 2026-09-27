@@ -35,7 +35,7 @@
 - [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 - [![Leetcode Stats](https://leetcard.jacoblin.cool/yumanuralfath?ext=activity&theme=wtf&font=milonga)](https://leetcode.com/yumanuralfath)
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2052%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.55%20million%20lines%20of%20code-blue?style=flat)
 
@@ -64,26 +64,26 @@ Sunday                   235 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       8 hrs 51 mins       ███████████████░░░░░░░░░░   61.17 % 
-Rust                     2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-TypeScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-Svelte                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+C#                       10 hrs 29 mins      ████████████████░░░░░░░░░   64.21 % 
+Rust                     2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+TypeScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Svelte                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🐱‍💻 Projects: 
-projectLearn             7 hrs 26 mins       █████████████░░░░░░░░░░░░   51.37 % 
-kobook_insight           2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-jurnal_yuma              1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-BaitAlhikmah             39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-NinjaBoy                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+projectLearn             8 hrs 23 mins       █████████████░░░░░░░░░░░░   51.39 % 
+kobook_insight           2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+jurnal_yuma              1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Unknown Project          1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+BaitAlhikmah             39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 16 mins (36.43%)
+⏱ AI Coding Time: 5 hrs 16 mins (32.26%)
 
-✍️ 5,100 lines written by AI, 851 lines written by hand (85.7% AI-written)
+✍️ 5,100 lines written by AI, 997 lines written by hand (83.65% AI-written)
 
 🔤 448,816 Input Tokens, 9,109 Output Tokens
 
@@ -94,10 +94,10 @@ NinjaBoy                 27 mins             █░░░░░░░░░░�
 Github-Copilot           5,100 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.7% of written lines came from AI
+🤖 AI-Driven — 83.65% of written lines came from AI
 📝 Concise Prompter — average 185 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 18.82% of changed lines were hand-edited
+🚀 High AI Trust — 22.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -113,7 +113,7 @@ Svelte                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 19:35:55 UTC
+ Last Updated on 27/09/2026 20:00:48 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
