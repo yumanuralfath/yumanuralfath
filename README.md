@@ -35,28 +35,28 @@
 - [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 - [![Leetcode Stats](https://leetcard.jacoblin.cool/yumanuralfath?ext=activity&theme=wtf&font=milonga)](https://leetcode.com/yumanuralfath)
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%209%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.55%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                971 commits         █████████████░░░░░░░░░░░░   53.62 % 
-🌆 Daytime                425 commits         ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-🌃 Evening                372 commits         █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-🌙 Night                  43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+🌞 Morning                971 commits         █████████████░░░░░░░░░░░░   53.50 % 
+🌆 Daytime                425 commits         ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+🌃 Evening                374 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+🌙 Night                  45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   258 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Tuesday                  268 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Wednesday                305 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Thursday                 183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Friday                   247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Saturday                 315 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Sunday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Monday                   260 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Tuesday                  268 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Wednesday                305 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Thursday                 183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Friday                   247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Saturday                 315 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Sunday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
 ```
 
 
@@ -64,56 +64,58 @@ Sunday                   235 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       10 hrs 29 mins      ████████████████░░░░░░░░░   64.21 % 
-Rust                     2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-TypeScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Svelte                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+C#                       9 hrs 24 mins       ███████████░░░░░░░░░░░░░░   45.47 % 
+Rust                     8 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   39.02 % 
+TypeScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Svelte                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🐱‍💻 Projects: 
-projectLearn             8 hrs 23 mins       █████████████░░░░░░░░░░░░   51.39 % 
-kobook_insight           2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-jurnal_yuma              1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Unknown Project          1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-BaitAlhikmah             39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+projectLearn             8 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   40.67 % 
+learn_godot              5 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+kobook_insight           2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+jurnal_yuma              1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Unknown Project          58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 16 mins (32.26%)
+⏱ AI Coding Time: 6 hrs 18 mins (30.48%)
 
-✍️ 5,100 lines written by AI, 997 lines written by hand (83.65% AI-written)
+✍️ 6,362 lines written by AI, 1,351 lines written by hand (82.48% AI-written)
 
-🔤 448,816 Input Tokens, 9,109 Output Tokens
+🔤 856,382 Input Tokens, 15,108 Output Tokens
 
-💵 $1.48 Estimated AI Cost This Week
+💵 $2.36 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 67 AI Prompts
+🧠 25 AI Sessions, 88 AI Prompts
 
-Github-Copilot           5,100 lines         █████████████████████████   100.00 % 
+Github-Copilot           6,364 lines         █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.65% of written lines came from AI
-📝 Concise Prompter — average 185 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 22.04% of changed lines were hand-edited
+🤖 AI-Driven — 82.48% of written lines came from AI
+📝 Concise Prompter — average 195 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 24.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     24 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-C#                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Svelte                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Rust                     24 repos            ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+C#                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Svelte                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+GDScript                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 
 
 
 
- Last Updated on 27/09/2026 20:00:48 UTC
+ Last Updated on 28/09/2026 22:28:18 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
