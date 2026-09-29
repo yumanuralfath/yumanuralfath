@@ -64,58 +64,58 @@ Sunday                   237 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       9 hrs 24 mins       ███████████░░░░░░░░░░░░░░   45.47 % 
-Rust                     8 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   39.02 % 
-TypeScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Svelte                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Rust                     9 hrs 28 mins       ████████████░░░░░░░░░░░░░   48.64 % 
+C#                       6 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.12 % 
+TypeScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Svelte                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🐱‍💻 Projects: 
-projectLearn             8 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   40.67 % 
-learn_godot              5 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-kobook_insight           2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-jurnal_yuma              1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Unknown Project          58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+projectLearn             6 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.85 % 
+learn_godot              5 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+kobook_insight           3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+jurnal_yuma              1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Unknown Project          1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 18 mins (30.48%)
+⏱ AI Coding Time: 5 hrs 57 mins (30.59%)
 
-✍️ 6,362 lines written by AI, 1,351 lines written by hand (82.48% AI-written)
+✍️ 6,362 lines written by AI, 1,198 lines written by hand (84.15% AI-written)
 
-🔤 856,382 Input Tokens, 15,108 Output Tokens
+🔤 641,667 Input Tokens, 9,292 Output Tokens
 
-💵 $2.36 Estimated AI Cost This Week
+💵 $1.63 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 88 AI Prompts
+🧠 20 AI Sessions, 74 AI Prompts
 
 Github-Copilot           6,364 lines         █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.48% of written lines came from AI
-📝 Concise Prompter — average 195 characters per prompt
+🤖 AI-Driven — 84.15% of written lines came from AI
+📝 Concise Prompter — average 224 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 24.22% of changed lines were hand-edited
+🚀 High AI Trust — 22.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     24 repos            ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-C#                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Svelte                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-GDScript                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Rust                     25 repos            ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+C#                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Svelte                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+GDScript                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 
 
 
 
- Last Updated on 28/09/2026 22:28:18 UTC
+ Last Updated on 29/09/2026 21:19:35 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
