@@ -35,7 +35,7 @@
 - [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 - [![Leetcode Stats](https://leetcard.jacoblin.cool/yumanuralfath?ext=activity&theme=wtf&font=milonga)](https://leetcode.com/yumanuralfath)
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.58%20million%20lines%20of%20code-blue?style=flat)
 
@@ -64,40 +64,41 @@ Sunday                   241 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     10 hrs 17 mins      ████████████░░░░░░░░░░░░░   48.53 % 
-Svelte                   5 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-TypeScript               1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-TOML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Rust                     9 hrs 8 mins        ██████████████░░░░░░░░░░░   54.27 % 
+Svelte                   3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+TypeScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Bash                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 🐱‍💻 Projects: 
-kolibra                  8 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   39.29 % 
-ko_insight               5 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-Unknown Project          2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-KoLibri                  1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-yumana_api_V2            1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+kolibra                  10 hrs 17 mins      ███████████████░░░░░░░░░░   61.09 % 
+Unknown Project          2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+KoLibri                  1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+book-stats               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+yumana_api_V2            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 14 mins (24.74%)
+⏱ AI Coding Time: 3 hrs 55 mins (23.27%)
 
-✍️ 2,938 lines written by AI, 3,373 lines written by hand (46.55% AI-written)
+✍️ 1,370 lines written by AI, 2,591 lines written by hand (34.59% AI-written)
 
-🔤 537,028 Input Tokens, 6,497 Output Tokens
+🔤 378,096 Input Tokens, 2,596 Output Tokens
 
-💵 $1.71 Estimated AI Cost This Week
+💵 $1.01 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 96 AI Prompts
+🧠 11 AI Sessions, 71 AI Prompts
 
-Github-Copilot           3,026 lines         █████████████████████████   100.00 % 
+Github-Copilot           1,414 lines         █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.55% of written lines came from AI
-📚 Verbose Prompter — average 3,448 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 65.22% of changed lines were hand-edited
+⚖️ Balanced with AI — 34.59% of written lines came from AI
+📚 Verbose Prompter — average 4,255 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 76.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -113,7 +114,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 21:29:54 UTC
+ Last Updated on 07/10/2026 21:50:44 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
