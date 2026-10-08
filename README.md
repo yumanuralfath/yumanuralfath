@@ -35,28 +35,28 @@
 - [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 - [![Leetcode Stats](https://leetcard.jacoblin.cool/yumanuralfath?ext=activity&theme=wtf&font=milonga)](https://leetcode.com/yumanuralfath)
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%203%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.58%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.59%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                992 commits         █████████████░░░░░░░░░░░░   53.10 % 
-🌆 Daytime                446 commits         ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-🌃 Evening                384 commits         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+🌞 Morning                995 commits         █████████████░░░░░░░░░░░░   53.15 % 
+🌆 Daytime                447 commits         ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+🌃 Evening                384 commits         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
 🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   281 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Tuesday                  277 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Wednesday                315 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Thursday                 183 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Friday                   248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Saturday                 323 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Sunday                   241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Monday                   281 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Tuesday                  278 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Wednesday                315 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Thursday                 184 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Friday                   248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Saturday                 325 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Sunday                   241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
 ```
 
 
@@ -64,41 +64,41 @@ Sunday                   241 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     9 hrs 8 mins        ██████████████░░░░░░░░░░░   54.27 % 
-Svelte                   3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-TypeScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Bash                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Rust                     10 hrs 31 mins      ████████████████░░░░░░░░░   64.89 % 
+Svelte                   2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+TOML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Bash                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🐱‍💻 Projects: 
-kolibra                  10 hrs 17 mins      ███████████████░░░░░░░░░░   61.09 % 
-Unknown Project          2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-KoLibri                  1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-book-stats               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-yumana_api_V2            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+kolibra                  12 hrs 12 mins      ███████████████████░░░░░░   75.35 % 
+KoLibri                  1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Unknown Project          1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+yumana_api_V2            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+book-stats               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 55 mins (23.27%)
+⏱ AI Coding Time: 3 hrs 40 mins (22.7%)
 
-✍️ 1,370 lines written by AI, 2,591 lines written by hand (34.59% AI-written)
+✍️ 492 lines written by AI, 2,101 lines written by hand (18.97% AI-written)
 
-🔤 378,096 Input Tokens, 2,596 Output Tokens
+🔤 450,807 Input Tokens, 22,087 Output Tokens
 
-💵 $1.01 Estimated AI Cost This Week
+💵 $1.30 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 71 AI Prompts
+🧠 11 AI Sessions, 67 AI Prompts
 
-Github-Copilot           1,414 lines         █████████████████████████   100.00 % 
+Github-Copilot           536 lines           █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 34.59% of written lines came from AI
-📚 Verbose Prompter — average 4,255 characters per prompt
+🧑‍💻 Mostly Hands-On — 18.97% of written lines came from AI
+📚 Verbose Prompter — average 4,504 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 76.19% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 87.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -114,7 +114,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 21:50:44 UTC
+ Last Updated on 08/10/2026 21:53:25 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
