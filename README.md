@@ -35,8 +35,7 @@
 - [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 - [![Leetcode Stats](https://leetcard.jacoblin.cool/yumanuralfath?ext=activity&theme=wtf&font=milonga)](https://leetcode.com/yumanuralfath)
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2030%20mins-blue?style=flat)
-
+  
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.59%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -76,29 +75,6 @@ jurnal_yuma              32 mins             █░░░░░░░░░░�
 KoLibri                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 journal_yuma             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 dotfiles                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 45 mins (28.71%)
-
-✍️ 1,723 lines written by AI, 1,670 lines written by hand (50.78% AI-written)
-
-🔤 2,508,112 Input Tokens, 196,595 Output Tokens
-
-💵 $7.35 Estimated AI Cost This Week
-
-🧠 14 AI Sessions, 67 AI Prompts
-
-Gemini                   1,231 lines         █████████████████░░░░░░░░   69.67 % 
-Github-Copilot           536 lines           ████████░░░░░░░░░░░░░░░░░   30.33 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.78% of written lines came from AI
-📚 Verbose Prompter — average 4,513 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 61.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
