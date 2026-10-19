@@ -35,28 +35,28 @@
 - [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 - [![Leetcode Stats](https://leetcard.jacoblin.cool/yumanuralfath?ext=activity&theme=wtf&font=milonga)](https://leetcode.com/yumanuralfath)
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-67%20hrs%2055%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.63%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.64%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1056 commits        █████████████░░░░░░░░░░░░   53.82 % 
-🌆 Daytime                473 commits         ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-🌃 Evening                386 commits         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-🌙 Night                  47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+🌞 Morning                1064 commits        █████████████░░░░░░░░░░░░   53.85 % 
+🌆 Daytime                478 commits         ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+🌃 Evening                387 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+🌙 Night                  47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   281 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Tuesday                  305 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Wednesday                341 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Thursday                 203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Friday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Saturday                 325 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Sunday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Monday                   295 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Tuesday                  305 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Wednesday                341 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Thursday                 203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Friday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Saturday                 325 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Sunday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
 ```
 
 
@@ -64,58 +64,59 @@ Sunday                   249 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     13 hrs 44 mins      ████████████████░░░░░░░░░   63.76 % 
-Lua                      3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-TOML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Rust                     14 hrs 38 mins      ██████████████░░░░░░░░░░░   54.02 % 
+Lua                      4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+TypeScript               2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+YAML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🐱‍💻 Projects: 
-yumanga.koplugin         5 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-weebcentral.koplugin     4 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-kindle_plugin            2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-rustlings                2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-book_stats               2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+yumanga.koplugin         8 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.99 % 
+weebcentral.koplugin     4 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+KoLibri                  4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+rustlings                3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+kindle_plugin            2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 16 mins (38.38%)
+⏱ AI Coding Time: 12 hrs 2 mins (44.42%)
 
-✍️ 6,808 lines written by AI, 2,517 lines written by hand (73.01% AI-written)
+✍️ 8,755 lines written by AI, 3,458 lines written by hand (71.69% AI-written)
 
-🔤 3,885,699 Input Tokens, 328,048 Output Tokens
+🔤 2,800,312 Input Tokens, 198,614 Output Tokens
 
-💵 $11.74 Estimated AI Cost This Week
+💵 $8.47 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 113 AI Prompts
+🧠 32 AI Sessions, 138 AI Prompts
 
-Github-Copilot           3,984 lines         ██████████████░░░░░░░░░░░   55.33 % 
-Gemini                   3,217 lines         ███████████░░░░░░░░░░░░░░   44.67 % 
+Github-Copilot           5,569 lines         ███████████████░░░░░░░░░░   60.36 % 
+Vscode                   3,569 lines         ██████████░░░░░░░░░░░░░░░   38.68 % 
+Gemini                   89 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 73.01% of written lines came from AI
-📚 Verbose Prompter — average 3,350 characters per prompt
+🤖 AI-Driven — 71.69% of written lines came from AI
+📚 Verbose Prompter — average 3,136 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 33.52% of changed lines were hand-edited
+🚀 High AI Trust — 34.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     25 repos            ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-C#                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Svelte                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-GDScript                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Rust                     25 repos            ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+Svelte                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+C#                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+GDScript                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 
 
 
- Last Updated on 18/10/2026 19:18:24 UTC
+ Last Updated on 19/10/2026 21:24:31 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
