@@ -64,43 +64,43 @@ Sunday                   249 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     13 hrs 25 mins      ███████████████░░░░░░░░░░   61.97 % 
-TypeScript               2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Bash                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Lua                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Rust                     13 hrs 24 mins      ████████████████░░░░░░░░░   65.02 % 
+TypeScript               2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Lua                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🐱‍💻 Projects: 
-yumanga.koplugin         6 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   31.19 % 
-KoLibri                  5 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-bevy_project             3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-rustlings                2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-book_stats               2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+bevy_project             5 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+KoLibri                  5 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+yumanga.koplugin         3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+rustlings                2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+book_stats               2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 5 mins (41.98%)
+⏱ AI Coding Time: 7 hrs 20 mins (35.62%)
 
-✍️ 7,247 lines written by AI, 1,964 lines written by hand (78.68% AI-written)
+✍️ 5,268 lines written by AI, 2,200 lines written by hand (70.54% AI-written)
 
 🔤 2,228,405 Input Tokens, 150,755 Output Tokens
 
 💵 $7.05 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 96 AI Prompts
+🧠 27 AI Sessions, 81 AI Prompts
 
-Github-Copilot           4,055 lines         █████████████░░░░░░░░░░░░   52.57 % 
-Vscode                   3,569 lines         ████████████░░░░░░░░░░░░░   46.27 % 
-Gemini                   89 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Vscode                   3,569 lines         ████████████████░░░░░░░░░   65.93 % 
+Github-Copilot           1,755 lines         ████████░░░░░░░░░░░░░░░░░   32.42 % 
+Gemini                   89 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.68% of written lines came from AI
-📚 Verbose Prompter — average 4,408 characters per prompt
+🤖 AI-Driven — 70.54% of written lines came from AI
+📚 Verbose Prompter — average 2,190 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 28.13% of changed lines were hand-edited
+🚀 High AI Trust — 36.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -116,7 +116,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 20:30:34 UTC
+ Last Updated on 22/10/2026 20:28:38 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
