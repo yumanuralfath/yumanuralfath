@@ -35,27 +35,27 @@
 - [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 - [![Leetcode Stats](https://leetcard.jacoblin.cool/yumanuralfath?ext=activity&theme=wtf&font=milonga)](https://leetcode.com/yumanuralfath)
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.64%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1070 commits        █████████████░░░░░░░░░░░░   53.99 % 
-🌆 Daytime                478 commits         ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-🌃 Evening                387 commits         █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+🌞 Morning                1070 commits        █████████████░░░░░░░░░░░░   53.96 % 
+🌆 Daytime                478 commits         ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+🌃 Evening                388 commits         █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
 🌙 Night                  47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   295 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Tuesday                  311 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Monday                   296 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Tuesday                  311 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
 Wednesday                341 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
 Thursday                 203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Friday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Saturday                 325 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Friday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Saturday                 325 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
 Sunday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
 ```
 
@@ -64,43 +64,42 @@ Sunday                   249 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     9 hrs 33 mins       ███████████████░░░░░░░░░░   59.02 % 
-TypeScript               2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-Svelte                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Rust                     8 hrs 6 mins        ██████████████████████░░░   87.89 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+TypeScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+TOML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🐱‍💻 Projects: 
-bevy_project             6 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   39.50 % 
-KoLibri                  5 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.59 % 
-yumanga.koplugin         2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-rustlings                1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-learn_tunes              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+bevy_project             8 hrs 27 mins       ███████████████████████░░   91.59 % 
+KoLibri                  36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+dotfiles                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+sample.wesl              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 51 mins (36.21%)
+⏱ AI Coding Time: 40 mins (7.27%)
 
-✍️ 5,164 lines written by AI, 1,870 lines written by hand (73.41% AI-written)
+✍️ 0 lines written by AI, 1,760 lines written by hand (0.0% AI-written)
 
-🔤 1,863,776 Input Tokens, 148,921 Output Tokens
+🔤 12,882 Input Tokens, 252 Output Tokens
 
-💵 $5.93 Estimated AI Cost This Week
+💵 $0.04 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 69 AI Prompts
+🧠 11 AI Sessions, 3 AI Prompts
 
-Vscode                   3,569 lines         █████████████████░░░░░░░░   68.07 % 
-Github-Copilot           1,585 lines         ████████░░░░░░░░░░░░░░░░░   30.23 % 
-Gemini                   89 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Vscode                   7 lines             █████████████████████████   100.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 73.41% of written lines came from AI
-📚 Verbose Prompter — average 1,662 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 32.62% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 43 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -116,7 +115,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 19:30:19 UTC
+ Last Updated on 26/10/2026 21:28:12 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
