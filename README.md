@@ -64,32 +64,32 @@ Sunday                   249 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     8 hrs 6 mins        ██████████████████████░░░   87.89 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-TypeScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-TOML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Rust                     7 hrs 45 mins       ████████████████████████░   94.61 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Lua                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+WGSL                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🐱‍💻 Projects: 
-bevy_project             8 hrs 27 mins       ███████████████████████░░   91.59 % 
-KoLibri                  36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-dotfiles                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-sample.wesl              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+bevy_project             8 hrs 1 min         ████████████████████████░   97.89 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+dotfiles                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+sample.wesl              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+nvim                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 mins (7.27%)
+⏱ AI Coding Time: 13 mins (2.75%)
 
-✍️ 0 lines written by AI, 1,760 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,662 lines written by hand (0.0% AI-written)
 
-🔤 12,882 Input Tokens, 252 Output Tokens
+🔤 11,564 Input Tokens, 252 Output Tokens
 
 💵 $0.04 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 3 AI Prompts
+🧠 3 AI Sessions, 2 AI Prompts
 
 Vscode                   7 lines             █████████████████████████   100.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -97,8 +97,8 @@ Gemini                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 43 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
+📝 Concise Prompter — average 63 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -115,7 +115,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 21:28:12 UTC
+ Last Updated on 27/10/2026 21:10:51 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
