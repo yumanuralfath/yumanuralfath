@@ -64,26 +64,26 @@ Sunday                   249 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     4 hrs 50 mins       ███████████████████████░░   92.78 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-Lua                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-WGSL                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Rust                     2 hrs 28 mins       ██████████████████████░░░   86.76 % 
+Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Lua                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+WGSL                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🐱‍💻 Projects: 
-bevy_project             5 hrs 3 mins        ████████████████████████░   97.02 % 
-dotfiles                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-sample.wesl              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-nvim                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+bevy_project             2 hrs 41 mins       ████████████████████████░   94.68 % 
+dotfiles                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+sample.wesl              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+nvim                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (3.37%)
+⏱ AI Coding Time: 10 mins (6.18%)
 
-✍️ 0 lines written by AI, 1,449 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 965 lines written by hand (0.0% AI-written)
 
 🔤 10,246 Input Tokens, 252 Output Tokens
 
@@ -114,7 +114,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 21:33:41 UTC
+ Last Updated on 29/10/2026 21:37:48 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
