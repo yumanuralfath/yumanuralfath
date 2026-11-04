@@ -39,68 +39,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.64%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1070 commits        █████████████░░░░░░░░░░░░   53.96 % 
-🌆 Daytime                478 commits         ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
-🌃 Evening                388 commits         █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-🌙 Night                  47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   296 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Tuesday                  311 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Wednesday                341 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Thursday                 203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Friday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Saturday                 325 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Sunday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Rust                     4 hrs 22 mins       ██████████████████████░░░   89.47 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Lua                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-WGSL                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-
-🐱‍💻 Projects: 
-bevy_project             2 hrs 33 mins       █████████████░░░░░░░░░░░░   52.16 % 
-rustlings                1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-bevy_learn               1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-dotfiles                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 10 mins (3.6%)
-
-✍️ 0 lines written by AI, 1,249 lines written by hand (0.0% AI-written)
-
-🔤 10,246 Input Tokens, 252 Output Tokens
-
-💵 $0.03 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 1 AI Prompts
-
-M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 46 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Rust** 
 
 ```text
@@ -114,7 +52,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 20:26:40 UTC
+ Last Updated on 04/11/2026 00:14:57 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
