@@ -64,18 +64,17 @@ Sunday                   249 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     6 hrs 27 mins       ███████████████████████░░   90.61 % 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Rust                     4 hrs 21 mins       ██████████████████████░░░   89.20 % 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🐱‍💻 Projects: 
-bevy_learn               2 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   37.88 % 
-rustlings                2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.58 % 
-rust_learn               2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.57 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-bevy_project             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+rust_learn               2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   43.05 % 
+bevy_learn               1 hr 39 mins        █████████░░░░░░░░░░░░░░░░   34.06 % 
+rustlings                1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,7 +96,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2026 22:37:19 UTC
+ Last Updated on 06/11/2026 22:00:07 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
