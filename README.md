@@ -64,16 +64,11 @@ Sunday                   249 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     5 hrs 37 mins       ███████████████████████░░   91.41 % 
-Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Rust                     7 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rustlings                4 hrs 1 min         ████████████████░░░░░░░░░   65.47 % 
-rust_learn               2 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.26 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+rustlings                7 hrs 3 mins        █████████████████████████   99.95 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +90,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2026 22:12:44 UTC
+ Last Updated on 11/11/2026 23:23:08 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
