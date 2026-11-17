@@ -35,7 +35,7 @@
 - [![wakatime](https://wakatime.com/badge/user/dc384f06-ca40-47b3-af9c-3e0560a1bcfa.svg)](https://wakatime.com/@dc384f06-ca40-47b3-af9c-3e0560a1bcfa)
 - [![Leetcode Stats](https://leetcard.jacoblin.cool/yumanuralfath?ext=activity&theme=wtf&font=milonga)](https://leetcode.com/yumanuralfath)
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-69%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -64,38 +64,41 @@ Sunday                   249 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     12 hrs 48 mins      █████████████████████████   99.18 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Rust                     10 hrs 20 mins      ████████████████████████░   95.97 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+TOML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🐱‍💻 Projects: 
-rustlings                12 hrs 39 mins      ████████████████████████░   98.00 % 
-gpui_learn               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+rustlings                9 hrs 39 mins       ██████████████████████░░░   89.71 % 
+learn_game_with_macroquad36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+gpui_learn               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+dotfiles                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (2.79%)
+⏱ AI Coding Time: 46 mins (7.16%)
 
-✍️ 0 lines written by AI, 480 lines written by hand (0.0% AI-written)
+✍️ 539 lines written by AI, 1,034 lines written by hand (34.27% AI-written)
 
-🔤 117,422 Input Tokens, 2,255 Output Tokens
+🔤 196,679 Input Tokens, 3,724 Output Tokens
 
-💵 $0.39 Estimated AI Cost This Week
+💵 $0.56 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 6 AI Sessions, 8 AI Prompts
 
-Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Vscode                   539 lines           █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 500 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+⚖️ Balanced with AI — 34.27% of written lines came from AI
+📝 Concise Prompter — average 308 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 72.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -111,7 +114,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2026 00:42:44 UTC
+ Last Updated on 17/11/2026 23:49:00 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
