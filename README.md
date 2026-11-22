@@ -64,26 +64,26 @@ Sunday                   249 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     12 hrs 10 mins      ███████████████████████░░   93.01 % 
-Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Lua                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Rust                     11 hrs 8 mins       ███████████████████████░░   92.42 % 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Lua                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🐱‍💻 Projects: 
-rustlings                6 hrs 7 mins        ████████████░░░░░░░░░░░░░   46.86 % 
-leetcode                 3 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-learn_game_with_macroquad1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-learn_leetcode           1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Unknown Project          53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+rustlings                5 hrs 6 mins        ███████████░░░░░░░░░░░░░░   42.35 % 
+leetcode                 3 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+learn_game_with_macroquad1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+learn_leetcode           1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Unknown Project          53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (6.8%)
+⏱ AI Coding Time: 53 mins (7.38%)
 
-✍️ 592 lines written by AI, 1,870 lines written by hand (24.05% AI-written)
+✍️ 592 lines written by AI, 1,830 lines written by hand (24.44% AI-written)
 
 🔤 422,389 Input Tokens, 37,635 Output Tokens
 
@@ -95,10 +95,10 @@ Vscode                   601 lines           ███████████�
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 24.05% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 24.44% of written lines came from AI
 📝 Concise Prompter — average 474 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 80.13% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 79.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -114,7 +114,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2026 22:05:26 UTC
+ Last Updated on 22/11/2026 22:21:26 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
