@@ -42,21 +42,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1084 commits        ██████████████░░░░░░░░░░░   54.28 % 
-🌆 Daytime                478 commits         ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-🌃 Evening                388 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+🌞 Morning                1084 commits        ██████████████░░░░░░░░░░░   54.25 % 
+🌆 Daytime                479 commits         ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+🌃 Evening                388 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
 🌙 Night                  47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   296 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Monday                   296 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 Tuesday                  311 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Wednesday                354 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Thursday                 204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Friday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Wednesday                355 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Thursday                 204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Friday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
 Saturday                 325 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Sunday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Sunday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
 ```
 
 
@@ -64,41 +64,16 @@ Sunday                   249 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     5 hrs 22 mins       ██████████████████████░░░   88.21 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Lua                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Rust                     2 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-leetcode                 3 hrs 26 mins       ██████████████░░░░░░░░░░░   56.48 % 
-learn_leetcode           1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Unknown Project          53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-learn_game_with_macroquad27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-dotfiles                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+leetcode                 2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (5.86%)
-
-✍️ 53 lines written by AI, 931 lines written by hand (5.39% AI-written)
-
-🔤 1,528,112 Input Tokens, 176,780 Output Tokens
-
-💵 $5.18 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 13 AI Prompts
-
-Vscode                   62 lines            █████████████████████████   100.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.39% of written lines came from AI
-📄 Detailed Prompter — average 545 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 94.79% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
@@ -114,7 +89,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2026 01:18:47 UTC
+ Last Updated on 26/11/2026 00:53:24 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
