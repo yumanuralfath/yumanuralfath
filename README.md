@@ -42,21 +42,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1084 commits        ██████████████░░░░░░░░░░░   54.25 % 
-🌆 Daytime                479 commits         ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-🌃 Evening                388 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+🌞 Morning                1086 commits        ██████████████░░░░░░░░░░░   54.30 % 
+🌆 Daytime                479 commits         ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+🌃 Evening                388 commits         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
 🌙 Night                  47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   296 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Tuesday                  311 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Wednesday                355 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Thursday                 204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Friday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Saturday                 325 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Sunday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Monday                   296 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Tuesday                  311 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Wednesday                355 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Thursday                 206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Friday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Saturday                 325 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Sunday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
 ```
 
 
@@ -64,10 +64,11 @@ Sunday                   249 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     2 hrs 1 min         █████████████████████████   100.00 % 
+Lua                      4 mins              ████████████████████████░   96.19 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 🐱‍💻 Projects: 
-leetcode                 2 hrs 1 min         █████████████████████████   100.00 % 
+dotfiles                 4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -89,7 +90,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2026 00:53:24 UTC
+ Last Updated on 27/11/2026 01:00:03 UTC
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
